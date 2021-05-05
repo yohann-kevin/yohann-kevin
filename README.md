@@ -1,5 +1,7 @@
 # Badges
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=yohann-kevin&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![stats](https://github-readme-stats.vercel.app/api?username=yohann-kevin&show_icons=true&theme=vision-friendly-dark)
 
 <!-- ![Codewars](https://www.codewars.com/users/-yohann-/badges/large) -->
