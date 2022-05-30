@@ -8,7 +8,7 @@
 
   <!-- ![Codewars](https://www.codewars.com/users/-yohann-/badges/large) -->
 
-  ![stats](https://github-readme-stats.vercel.app/api/wakatime?username=kirua&hide_progress=true&theme=vision-friendly-dark&langs_count=8)
+  ![stats](https://github-readme-stats.vercel.app/api/wakatime?username=kirua&hide_progress=true&theme=vision-friendly-dark&langs_count=8&hide_progress=false)
 
   ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yohann-kevin&hide=html,css,blade&theme=vision-friendly-dark&layout=compact)
   <!-- (https://github.com/anuraghazra/github-readme-stats) -->
